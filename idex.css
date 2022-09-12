@@ -1,0 +1,171 @@
+* {
+  padding: 0;
+  margin: 0;
+  top: 0;
+  font-family: "Inter", sans-serif;
+}
+
+.side-bar-p {
+  position: absolute;
+  width: 219px;
+  height: 89.9vh;
+  left: 0px;
+  top: 100px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 1px rgba(152, 161, 178, 0.1),
+    0px 1px 4px rgba(69, 75, 87, 0.12);
+  border-radius: 8px 0px 0px 8px;
+}
+
+.caja-one {
+  position: absolute;
+  width: 219px;
+  height: 64px;
+  left: 0px;
+  top: 0px;
+  background: #f9fafc;
+  border-radius: 8px 0px 0px 0px;
+  border: 1px solid #e9edf5;
+  cursor: pointer;
+}
+
+.caja-dos {
+  position: absolute;
+  width: 219px;
+  height: 64px;
+  left: 0px;
+  top: 65px;
+  background: #f9fafc;
+  border-radius: 8px 0px 0px 0px;
+  border: 1px solid #e9edf5;
+  cursor: pointer;
+}
+
+.caja-tres {
+  position: absolute;
+  width: 219px;
+  height: 64px;
+  left: 0px;
+  top: 130px;
+  background: #f9fafc;
+  border-radius: 8px 0px 0px 0px;
+  border: 1px solid #e9edf5;
+  cursor: pointer;
+}
+
+.caja-cuatro {
+  position: absolute;
+  width: 219px;
+  height: 64px;
+  left: 0px;
+  top: 195px;
+  background: #f9fafc;
+  border-radius: 8px 0px 0px 0px;
+  border: 1px solid #e9edf5;
+  cursor: pointer;
+}
+
+.caja-cinco {
+  position: absolute;
+  white-space: pre;
+  width: 219px;
+  height: 64px;
+  left: 0px;
+  top: 260px;
+  background: #f9fafc;
+  border-radius: 8px 0px 0px 0px;
+  border: 1px solid #e9edf5;
+  cursor: pointer;
+}
+
+.caja-seis {
+  position: absolute;
+  width: 219px;
+  height: 64px;
+  left: 0px;
+  top: 325px;
+  background: #f9fafc;
+  border-radius: 8px 0px 0px 0px;
+  border: 1px solid #e9edf5;
+  cursor: pointer;
+}
+
+.texto-a {
+  position: absolute;
+  width: 92px;
+  height: 20px;
+  left: 60px;
+  top: 22px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+
+  letter-spacing: 0.02em;
+
+  color: #464f60;
+}
+
+img {
+  position: absolute;
+  left: 8.17%;
+  right: 4.17%;
+  top: 22px;
+  bottom: 12.5%;
+
+
+}
+
+.reportes {
+  position: absolute;
+  left: 6.17%;
+  right: 4.17%;
+  top: 18px;
+  bottom: 12.5%;
+}
+
+.maestros {
+  position: absolute;
+  left: 6.17%;
+  right: 4.17%;
+  top: 18px;
+  bottom: 12.5%;
+
+}
+
+
+
+
+.barra-principal {
+  position: absolute;
+  width: 1414px;
+  height: 100px;
+
+  background: #DAE1EC;
+  box-shadow: 0px 1px 4px rgba(69, 75, 87, 0.12), 0px 1px 0px rgba(152, 161, 178, 0.1);
+}
+
+
+/*.direccion {
+
+  /* Historia Clinica / Opciones / Opciones 
+
+  position: absolute;
+  width: 405px;
+  height: 20px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  /* identical to box height, or 100% 
+  letter-spacing: 0.02em;
+
+  color: rgba(102, 102, 102, 0.5);
+
+}*/
